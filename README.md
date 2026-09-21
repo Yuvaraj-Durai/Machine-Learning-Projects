@@ -8,7 +8,7 @@ A collection of **100+ Machine Learning projects**, covering both supervised and
 
 Projects covering regression, classification, prediction, and other supervised learning applications.
 
-[ Explore Supervised Learning](./Supervised-Learning/)
+[ Explore Supervised Learning](./supervised-learning/)
 
 ---
 
